@@ -5,4 +5,9 @@ body {
 
 h1 {
     color: navy; /* 見出しを紺色に */
+    text-decoration: underline;
+}
+
+p{
+    color:blueviolet
 }
