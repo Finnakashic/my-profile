@@ -1,0 +1,8 @@
+body {
+    background-color: #f0f0f0; /* 背景を薄い灰色に */
+    font-family: sans-serif;   /* 読みやすいフォントに */
+}
+
+h1 {
+    color: navy; /* 見出しを紺色に */
+}
